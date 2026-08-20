@@ -57,6 +57,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jopesmp&theme=tokyonight" width="100%" alt="Resumo das atividades do GitHub" />
 
 </div>
+
 ---
 
 <p align="center">
