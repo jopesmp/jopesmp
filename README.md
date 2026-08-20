@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/31247249/README.3.md)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1e2327&height=220&section=header&text=Olá,%20eu%20sou%20o%20João%20Pedro%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20|%20UnB&descAlignY=58&descSize=18" width="100%"/>
 </p>
