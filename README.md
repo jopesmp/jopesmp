@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Software na <b>UnB</b>, apaixonado por resolver problemas com código, dados e boas interfaces.
+  Estudante de Engenharia de Software na <b>UnB</b>, apaixonado por tecnologia, dados e boas interfaces.
 </p>
 
 ---
